@@ -10,3 +10,6 @@
 | 2026-11-11 | `fill-mod-105-team-ai-enablement-programs-solutions` | `mod-105-team-ai-enablement-programs` | Fill mod-105-team-ai-enablement-programs module exercise solutions |
 | 2026-11-11 | `fill-mod-104-productivity-measurement-and-ai-roi-solutions` | `mod-104-productivity-measurement-and-ai-roi` | Fill mod-104-productivity-measurement-and-ai-roi module exercise solutions |
 | 2026-11-13 | `fill-mod-111-vendor-budget-and-tool-selection-at-team-scope-solutions` | `mod-111-vendor-budget-and-tool-selection-at-team-scope` | Fill mod-111-vendor-budget-and-tool-selection-at-team-scope module exercise solutions |
+| 2026-11-12 | `fill-mod-110-ai-governance-and-policy-at-team-scope-solutions` | `mod-110-ai-governance-and-policy-at-team-scope` | Fill mod-110-ai-governance-and-policy-at-team-scope module exercise solutions |
+| 2026-11-12 | `fill-mod-109-accountability-incident-response-and-blameless-postmortems-solutions` | `mod-109-accountability-incident-response-and-blameless-postmortems` | Fill mod-109-accountability-incident-response-and-blameless-postmortems module exercise solutions |
+| 2026-11-12 | `fill-mod-108-hiring-performance-and-feedback-with-ai-in-the-loop-solutions` | `mod-108-hiring-performance-and-feedback-with-ai-in-the-loop` | Fill mod-108-hiring-performance-and-feedback-with-ai-in-the-loop module exercise solutions |
