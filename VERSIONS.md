@@ -9,3 +9,4 @@
 | 2026-11-11 | `fill-mod-106-workflow-redesign-and-agent-delegation-solutions` | `mod-106-workflow-redesign-and-agent-delegation` | Fill mod-106-workflow-redesign-and-agent-delegation module exercise solutions |
 | 2026-11-11 | `fill-mod-105-team-ai-enablement-programs-solutions` | `mod-105-team-ai-enablement-programs` | Fill mod-105-team-ai-enablement-programs module exercise solutions |
 | 2026-11-11 | `fill-mod-104-productivity-measurement-and-ai-roi-solutions` | `mod-104-productivity-measurement-and-ai-roi` | Fill mod-104-productivity-measurement-and-ai-roi module exercise solutions |
+| 2026-11-12 | `fill-mod-109-accountability-incident-response-and-blameless-postmortems-solutions` | `mod-109-accountability-incident-response-and-blameless-postmortems` | Fill mod-109-accountability-incident-response-and-blameless-postmortems module exercise solutions |
