@@ -29,8 +29,9 @@ envelope.
 
 A good budget plan is:
 
-- **Reconcilable to a single envelope.** The sum of per-seat + per-project
-  + headroom must match the team's quarterly budget line to the dollar.
+- **Reconcilable to a single envelope.** The sum of per-seat +
+  per-project + headroom must match the team's quarterly budget line
+  to the dollar.
 - **Enforceable at the gateway**, not only reported after the fact. Hard
   caps that only exist on a slide deck are not caps.
 - **Attributed.** Every dollar spent has a seat, a project, or a shared

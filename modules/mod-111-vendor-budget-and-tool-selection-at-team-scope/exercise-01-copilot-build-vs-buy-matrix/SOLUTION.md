@@ -359,8 +359,8 @@ review). Each criterion scores 0–3. Pass bar: **18 / 27**.
   prompt history, its tool configs, and its MCP server registrations is
   stuck with the vendor on the first bad renewal. Count W8.
 - **Treating "build" as "write a copilot from scratch."** Then naturally
-  everything else wins on cost. The honest "build" row is BLD1 (OSS client
-  + internal gateway + internal MCP). Score that row fairly.
+  everything else wins on cost. The honest "build" row is BLD1 (OSS
+  client + internal gateway + internal MCP). Score that row fairly.
 - **Pretending the hybrid row does not exist.** Many teams quietly end up
   there anyway. The matrix should make this explicit so the team can
   budget and govern it instead of it accreting.
