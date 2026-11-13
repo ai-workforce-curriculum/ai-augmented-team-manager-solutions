@@ -368,7 +368,7 @@ Pass bar: **18 / 27**.
   section empty, "what the team is not" omitted. Peers learn to read
   around the artifact.
 - **Multiple copies of the one-pager.** Confluence + Notion + a PDF
-  + a slide. Four slightly-different versions = no canonical truth.
+  and a slide. Four slightly-different versions = no canonical truth.
 - **Individual performance in the decision log.** Belongs to `mod-108`
   private records. The log is team-visible.
 - **Meeting notes in the decision log.** Belongs on the team wiki.
