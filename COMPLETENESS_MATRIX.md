@@ -2,7 +2,7 @@
 
 AI Workforce Curriculum · Level 40 · [learning](https://github.com/ai-workforce-curriculum/ai-augmented-team-manager-learning) · [solutions](https://github.com/ai-workforce-curriculum/ai-augmented-team-manager-solutions)
 
-_Generated 2026-11-15 by `aicg org completeness`._
+_Generated 2026-11-22 by `aicg org completeness`._
 
 **Overall: 92%**
 
@@ -22,11 +22,11 @@ _Generated 2026-11-15 by `aicg org completeness`._
 | `mod-105-team-ai-enablement-programs` | ✅ Complete | 41,681 | 8 | 5 | — | 5/5 |
 | `mod-106-workflow-redesign-and-agent-delegation` | ✅ Complete | 35,556 | 8 | 5 | — | 5/5 |
 | `mod-107-skill-growth-anti-atrophy-and-career-development` | ✅ Complete | 43,717 | 8 | 5 | — | 5/5 |
-| `mod-108-hiring-performance-and-feedback-with-ai-in-the-loop` | ✅ Complete | 29,970 | 8 | 6 | — | 6/6 |
-| `mod-109-accountability-incident-response-and-blameless-postmortems` | ✅ Complete | 26,317 | 7 | 5 | — | 5/5 |
-| `mod-110-ai-governance-and-policy-at-team-scope` | ✅ Complete | 26,453 | 7 | 5 | — | 5/5 |
-| `mod-111-vendor-budget-and-tool-selection-at-team-scope` | ✅ Complete | 25,222 | 7 | 5 | — | 5/5 |
-| `mod-112-cross-functional-leadership-and-ritual-calendar` | ✅ Complete | 25,794 | 7 | 5 | — | 5/5 |
+| `mod-108-hiring-performance-and-feedback-with-ai-in-the-loop` | ✅ Complete | 49,715 | 8 | 6 | — | 6/6 |
+| `mod-109-accountability-incident-response-and-blameless-postmortems` | ✅ Complete | 46,633 | 7 | 5 | — | 5/5 |
+| `mod-110-ai-governance-and-policy-at-team-scope` | ✅ Complete | 47,253 | 7 | 5 | — | 5/5 |
+| `mod-111-vendor-budget-and-tool-selection-at-team-scope` | ✅ Complete | 44,848 | 7 | 5 | — | 5/5 |
+| `mod-112-cross-functional-leadership-and-ritual-calendar` | ✅ Complete | 46,320 | 7 | 5 | — | 5/5 |
 
 ## How this is calculated
 
